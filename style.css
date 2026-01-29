@@ -90,6 +90,12 @@ iframe {
   font-weight: bold;
 }
 
+.logo img {
+  height: 55px;
+  max-width: 180px;
+  object-fit: contain;
+}
+
 footer {
   padding: 25px;
   background: #111;
